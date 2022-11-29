@@ -69,11 +69,8 @@ $ git clone https://github.com/robsonamendonca/docker-sqlserver
 # Acessar a pasta
 $ cd docker-sqlserver
 
-# Construindo a imagem
-$ docker build
-
 # Criando contêiner 
-$ docker-compose up
+$ docker-compose up -d
 
 # Dados para se concectar:
 host:  127.0.0.1
@@ -88,6 +85,7 @@ Se você alterar qualquer um dos scripts após a execução pela primeira vez, p
 
 Este projeto está sob licença do MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE.md) .
 
+[Baseado no artigo: SQL Server + Docker Compose: criando rapidamente ambientes e populando bases para testes](https://renatogroffe.medium.com/sql-server-docker-compose-criando-rapidamente-ambientes-e-populando-bases-para-testes-13d108d8cdb2) feito por: [Renato Groffe](https://github.com/renatogroffe)
 
 Feito com :heart: por <a href="https://github.com/robsonamendonca" target="_blank">Robson Mendonça</a>
 
