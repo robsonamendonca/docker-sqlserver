@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./assets/img/docker_sqlserver.png" alt="Docker Sqlserver" />
+  <img src="./assets/img/docker_sqlserver.png" alt="Docker Sqlserver"  width="600" heigth="150" />
 
   &#xa0;
 
@@ -46,7 +46,7 @@ Como fazer com que o docker compose init um banco de dados do SQL Server
 ## :sparkles: Características ##
 
 :heavy_check_mark: Docker necssário esta instalado;\
-:heavy_check_mark: Alguma ferramenta para gestaõ de banco de dados(HeidiSQL);\
+:heavy_check_mark: Alguma ferramenta para gestaõ de banco de dados (HeidiSQL);\
 :heavy_check_mark: Script pode ser persoanalizado conforme sua necessida;
 
 ## :rocket: Tecnologias ##
@@ -58,7 +58,7 @@ As seguintes ferramentas foram utilizadas neste projeto:
 
 ## :white_check_mark: Requisitos ##
 
-Antes de iniciar :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [Docker](https://www.docker.com/)instalado.
+Antes de iniciar :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [Docker](https://www.docker.com/) instalado.
 
 ## :checkered_flag: Iniciando ##
 
@@ -89,7 +89,7 @@ Se você alterar qualquer um dos scripts após a execução pela primeira vez, p
 Este projeto está sob licença do MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE.md) .
 
 
-Feito com :heart: por <a href="https://github.com/robsonamendonca" target="_blank">{{YOUR_NAME}}</a>
+Feito com :heart: por <a href="https://github.com/robsonamendonca" target="_blank">Robson Mendonça</a>
 
 &#xa0;
 
