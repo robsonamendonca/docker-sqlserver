@@ -75,7 +75,7 @@ $ docker-compose up -d
 # Dados para se concectar:
 host:  127.0.0.1
 Username : SA
-Password:  password123!
+Password:  SqlServer2019!
 
 ```
 Dica:
